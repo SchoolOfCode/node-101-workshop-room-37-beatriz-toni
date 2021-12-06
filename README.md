@@ -3,7 +3,7 @@
 
 Node JS gives us the power to take JavaScript out of the browser - this means we're able to use it in servers and on the back end. Make sure you have the relevant version of Node for your OS installed from [here](https://nodejs.org/en/download/); you can choose which version you download, but the LTS version is recommended.
 
-Let's try it out now by making a simple Node app. Everyone has something they collect, no matter how mundane or kooky. As fun as it to talk about our collection, we're busy people! Let's make an app that automates talking about all the nice things in our collection for us in a cool, colorful way.
+Let's try it out now by making a simple Node app. Everyone has something they collect, no matter how mundane or kooky. As fun as it to talk about our collection, we're busy people! Let's make an app that automates talking about all the nice things in our collection for us in a cool, colorful way.hfghfgh
 
 ## Part 1: Checking your setup
 
